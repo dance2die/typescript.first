@@ -6,6 +6,10 @@
   "scripts": {
     "build": "tsc"
   },
+  "peerDependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
